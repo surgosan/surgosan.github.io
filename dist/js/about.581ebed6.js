@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunksite"]=self["webpackChunksite"]||[]).push([[443],{782:function(n,t,e){e.r(t),e.d(t,{default:function(){return l}});var s=e(252);const u={class:"about"},a=(0,s._)("h1",null,"This is an about page",-1),r=[a];function i(n,t){return(0,s.wg)(),(0,s.iD)("div",u,r)}var c=e(744);const o={},f=(0,c.Z)(o,[["render",i]]);var l=f}}]);
+//# sourceMappingURL=about.581ebed6.js.map
